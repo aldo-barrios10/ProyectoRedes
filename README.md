@@ -21,4 +21,4 @@ A-->F((ISP))
 ```
 
 ## Organización de la empresa
-[![Esta es una imagen de ejemplo](https://github.com/aldo-barrios10/ProyectoRedes/extras/estructura.jpg)]
+[![Esta es una imagen de ejemplo](https://github.com/aldo-barrios10/ProyectoRedes/blob/main/extras/estructura.jpg)]
